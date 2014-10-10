@@ -1,4 +1,4 @@
 #[test]
 fn foo() {
-    assert!(false);
+    assert!(true);
 }
