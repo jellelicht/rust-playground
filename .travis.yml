@@ -1,4 +1,4 @@
 language: rust
 notifications:
   email:
-    - jelle@jlicht.com
+    - jelle@jlicht.org
